@@ -27,19 +27,19 @@
 
 | 渠道 | 下载 |
 | --- | --- |
-| GitHub（主源） | **[ZhunJing-v8.2.0-win-x64.exe](https://github.com/kule-2025/zhunjing-releases/raw/main/ZhunJing-v8.2.0-win-x64.exe)** |
-| Gitee（国内源） | **[ZhunJing-v8.2.0-win-x64.exe](https://gitee.com/king2030/zhunjing/releases/download/v8.2.0/ZhunJing-v8.2.0-win-x64.exe)** |
+| GitHub（主源） | **[ZhunJing-v8.3.0-win-x64.exe](https://github.com/kule-2025/zhunjing-releases/raw/main/ZhunJing-v8.3.0-win-x64.exe)** |
+| Gitee（国内源） | **[ZhunJing-v8.3.0-win-x64.exe](https://gitee.com/king2030/zhunjing/releases/download/v8.3.0/ZhunJing-v8.3.0-win-x64.exe)** |
 
-- 文件名：`ZhunJing-v8.2.0-win-x64.exe`
+- 文件名：`ZhunJing-v8.3.0-win-x64.exe`
 - 大小：83.3 MB（一个文件，双击即用）
-- 校验（SHA-256）：`0e86f9a5320cc3570e3926dc70d664b876fce68a7411e48b35f3cdc6f5a8ac76`
+- 校验（SHA-256）：`1670fb5853c2860bd11277edce968eab6361eb077a69856ce0c0d1b6d1ada181`
 - 适用系统：Windows 10 / 11（64 位）
 
 **下载后双击即可使用，无需安装任何环境，也无需额外准备。**
 
 三步开始：
 
-1. 双击 `ZhunJing-v8.2.0-win-x64.exe`；
+1. 双击 `ZhunJing-v8.3.0-win-x64.exe`；
 2. 若系统弹出安全提示，选择「更多信息」→「仍要运行」；
 3. 操作界面会自动打开，注册一个账号即可开始。
 
@@ -72,7 +72,14 @@
 
 ## 五、版本记录
 
-### v8.2.0（当前）
+### v8.3.0（当前）
+- 登录支持**账号密码 / 邮箱验证码**双方式，验证码登录免输密码
+- 新增**三步找回密码**：验证邮箱 → 重置密码 → 完成，旧登录自动失效
+- 密码框支持**显示 / 隐藏**切换
+- 注册需阅读并同意**《用户协议》与《隐私政策》**
+- 双击后**页面即刻打开**，等待更短
+
+### v8.2.0
 - 交付升级为**一个文件、双击即用**，无需安装或准备任何环境
 - **会员体系**：免费 / 专业 / 团队三档，按用量分级
 - 登录支持**邮箱或用户名**任一方式
