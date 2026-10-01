@@ -27,19 +27,19 @@
 
 | 渠道 | 下载 |
 | --- | --- |
-| GitHub（主源） | **[ZhunJing-v8.3.6-win-x64.exe](https://github.com/kule-2025/zhunjing-releases/releases/download/v8.3.6/ZhunJing-v8.3.6-win-x64.exe)** |
-| Gitee（国内源） | **[ZhunJing-v8.3.6-win-x64.exe](https://gitee.com/king2030/zhunjing/releases/download/v8.3.6/ZhunJing-v8.3.6-win-x64.exe)** |
+| GitHub（主源） | **[ZhunJing-v8.3.7-win-x64.exe](https://github.com/kule-2025/zhunjing-releases/releases/download/v8.3.7/ZhunJing-v8.3.7-win-x64.exe)** |
+| Gitee（国内源） | **[ZhunJing-v8.3.7-win-x64.exe](https://gitee.com/king2030/zhunjing/releases/download/v8.3.7/ZhunJing-v8.3.7-win-x64.exe)** |
 
-- 文件名：`ZhunJing-v8.3.6-win-x64.exe`
+- 文件名：`ZhunJing-v8.3.7-win-x64.exe`
 - 大小：83.4 MB（一个文件，双击即用）
-- 校验（SHA-256）：`1ab58b5cd9f116a75793e83cd830dbb1248c1d30b8108d3780b91b0a6fd0a7b4`
+- 校验（SHA-256）：`657f55842c78e8f432ddfc1378e25e14bbb98d448726eebfa48241b6c9be7b08`
 - 适用系统：Windows 10 / 11（64 位）
 
 **下载后双击即可使用，无需安装任何环境，也无需额外准备。**
 
 三步开始：
 
-1. 双击 `ZhunJing-v8.3.6-win-x64.exe`；
+1. 双击 `ZhunJing-v8.3.7-win-x64.exe`；
 2. 若系统弹出安全提示，选择「更多信息」→「仍要运行」；
 3. 操作界面会自动打开，注册一个账号即可开始。
 
@@ -72,7 +72,13 @@
 
 ## 五、版本记录
 
-### v8.3.6（当前）
+### v8.3.7（当前）
+- **报告可导出归档**：报告支持导出为 Markdown（原仅 JSON），可直接归档、转发与二次核验，兑现「测得的结果别人能验」
+- **证据到期自动清理**：按会员档位（免费 30 天 / 专业 365 天 / 团队 1095 天）到期自动物理清除运行的证据产物，隐私承诺从「口头」变为「真实执行」，且清理动作留有可追溯记录
+- **报告查看修复**：修复报告详情页指标显示为 0 的问题，现在如实呈现断言数、通过率与判定
+- **离线编辑修复**：修复以本地文件方式打开页面时，「保存修改」可能被浏览器预检拦截的问题
+
+### v8.3.6
 - **报告可信度加固**：审计记录的完整性校验修复 —— 任何一条记录被改动都能被立即发现，不再出现「校验状态未知」；归档、恢复、删除等每个动作后校验都保持通过
 - **编辑保存修复**：项目 / 目标 / 场景的「保存修改」此前可能不生效，现已修复
 - **会员权益修复**：取消订购后权益状态即时归位，不再出现「已取消却仍显示专业版」的情况
